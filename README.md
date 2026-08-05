@@ -16,11 +16,5 @@ Languages
 
 Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=linux" height="55" alt="Linux" /> <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code" /> </p>
-
-Interests
-Low-Level Programming
-Computer Architecture
-Reverse Engineering
-Graphics Programming
+<p align="left"> <img src="https://skillicons.dev/icons?i=linux" height="55" alt="Linux" /> <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />  </p>
 
