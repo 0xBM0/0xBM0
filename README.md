@@ -6,9 +6,13 @@ Languages
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=c" height="55" alt="C" /> <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++" /> <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python" /> </p>
 
-Graphics & Frameworks
+## Graphics & Frameworks
 
-<p align="left"> <img src="https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_256x256.png" height="55" alt="Raylib" /> <img src="https://skillicons.dev/icons?i=opengl" height="55" alt="OpenGL" /> <img src="https://skillicons.dev/icons?i=qt" height="55" alt="Qt" /> </p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_256x256.png" height="55" alt="Raylib" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="55" alt="OpenGL" />
+  <img src="https://skillicons.dev/icons?i=qt" height="55" alt="Qt" />
+</p>
 
 Tools
 
