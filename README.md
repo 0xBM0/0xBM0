@@ -13,8 +13,3 @@ Languages
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="55" alt="OpenGL" />
   <img src="https://skillicons.dev/icons?i=qt" height="55" alt="Qt" />
 </p>
-
-Tools
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=linux" height="55" alt="Linux" /> <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />  </p>
-
