@@ -2,7 +2,7 @@
 
 Hey , I'm an Algerian student passionate about low-level programming, computer systems, graphics programming, and software engineering. I enjoy understanding how computers work under the hood, from memory management to rendering pipelines.
 
-Languages
+## Languages
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=c" height="55" alt="C" /> <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++" /> <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python" /> </p>
 
